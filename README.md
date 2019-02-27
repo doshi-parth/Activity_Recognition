@@ -1,0 +1,2 @@
+# Activity_Recognition
+• Created a computing system that understand and identify unknown human activities, recorded the user data with a MYO sensor and implemented feature transformation, extraction and selection using PCA in MATLAB. • Developed machine learning models like Decision Trees, Support Vector Machines and Neural Networks to perform user independent analysis and achieved 81%, 47% and 83% respectively. 
